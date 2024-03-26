@@ -18,5 +18,13 @@
     <body class="antialiased">
         <h1>Santiago Izquierdo Varela</h1>
         <h1>Emmie Alejandra Izquierdo Perez</h1>
+        <table border=1>
+            <tr>
+                <td>Cantida</td>
+            </tr>
+            <tr>
+                <td>$123.09</td>
+            </tr>
+        </table>
     </body>
 </html>
