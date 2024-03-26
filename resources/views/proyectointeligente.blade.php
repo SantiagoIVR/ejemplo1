@@ -16,6 +16,12 @@
         </style>
     </head>
     <body class="antialiased">
-        <h1>Tomas Gonzalez Alvarado</h1>
+        <?php
+         for ($i=0; $i<100; $i++){
+        ?>
+        <h1>Proyecto Inteligente <?=$i?></h1>
+        <?php
+        }
+                ?>
     </body>
 </html>
